@@ -12,11 +12,15 @@ Finally, it corrects the frame's orientation by rotating it clockwise or counter
 Requirements:
 
 Python 3.4
+
 OpenCV library (pip install opencv-python)
+
 MTCNN library (pip install mtcnn)
 
 Usage:
 
 -Save the script as face_detection_rotation.py.
+
 -Install the required libraries.
+
 -Run the script from your terminal:
